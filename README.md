@@ -1,6 +1,7 @@
 # Heart_Disease_Prediction_ML_Project
 
 **Project Overview**
+
 This project predicts the likelihood of heart disease using machine learning classification algorithms. Python libraries are used for data analysis, visualization, model training, and evaluation.
 
 **Technologies Used**
@@ -14,6 +15,7 @@ This project predicts the likelihood of heart disease using machine learning cla
 - Keras
 
 **Dataset**
+
 The project uses `heart.csv`, containing patient health-related attributes such as age, sex, chest pain type, blood pressure, cholesterol, maximum heart rate, and other clinical measurements.
 The `target` column represents the heart disease classification.
 
@@ -37,4 +39,5 @@ The `target` column represents the heart disease classification.
 - XGBoost
 
 **Model Performance** 
-Accuracy achieved:**88.52% for Random Forest**.
+
+Accuracy achieved: **88.52% for Random Forest**.
