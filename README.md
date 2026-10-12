@@ -35,7 +35,6 @@ The `target` column represents the heart disease classification.
 - Decision Tree
 - Random Forest
 - XGBoost
-- Neural Network
 
 **Model Performance** 
-Accuracy achieved:**90.16% for Random Forest**.
+Accuracy achieved:**88.52% for Random Forest**.
