@@ -20,8 +20,8 @@ The `target` column represents the heart disease classification.
 **Project Workflow**
 1. Import required libraries.
 2. Load and explore the dataset.
-3. Perform Exploratory Data Analysis (EDA).
-4. Analyze correlations between features.
+3. Analyze correlations between features.
+4. Perform Exploratory Data Analysis (EDA).
 5. Split the dataset into training and testing sets.
 6. Train machine learning classification models.
 7. Evaluate and compare model accuracy.
