@@ -12,7 +12,6 @@ This project predicts the likelihood of heart disease using machine learning cla
 - Seaborn
 - Scikit-learn
 - XGBoost
-- Keras
 
 **Dataset**
 
